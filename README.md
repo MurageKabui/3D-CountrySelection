@@ -2,6 +2,10 @@
 
 A 3D interactive globe visualization that allows users to manually rotate and select countries.
 
+
+
+<video src="[https://user-images.githubusercontent.com/aaa.mp4](https://github.com/user-attachments/assets/7997db4b-d19a-4708-9ea8-c07ec322d712)"></video>
+
 ## Overview
 
 This project provides a 3D globe visualization built with D3.js and TopoJSON. Users can manually rotate the globe, select countries, and view basic country information.
